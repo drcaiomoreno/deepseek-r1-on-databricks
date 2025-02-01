@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=tKGCTTWZvmM
 ### Try on Databricks
 https://www.databricks.com/blog/deepseek-r1-databricks
 
-### Notebook Example 
+### Notebook Example - Deploy DeepSeek-R1 with Mosaic AI Model Serving
 https://github.com/drcaiomoreno/deepseek-r1-on-databricks/tree/main/notebooks
 
 ### Caio's Blog post:
