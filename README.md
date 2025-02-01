@@ -4,3 +4,6 @@ Deepseek-R1 is a state-of-the-art open model that, for the first time, introduce
 
 ### Try on Databricks
 https://www.databricks.com/blog/deepseek-r1-databricks
+
+### Notebook Example 
+https://github.com/drcaiomoreno/deepseek-r1-on-databricks/tree/main/notebooks
