@@ -13,3 +13,6 @@ https://github.com/drcaiomoreno/deepseek-r1-on-databricks/tree/main/notebooks
 
 ### Caio's Blog post:
 https://caiomsouza.medium.com/deepseek-r1-on-databricks-32d8ab912bb4
+
+### DeepSeek GitHub Repo:
+https://github.com/deepseek-ai/DeepSeek-R1
